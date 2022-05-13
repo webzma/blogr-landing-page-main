@@ -6,16 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/webzma/blogr-landing-page-main.git"
-  },
   "keywords": [
     "JavaScript",
     "Challenge",
     "Grid",
     "FlexBox",
-    "Landing-page"
+    "LandingPage"
   ],
   "author": "Wilberk Ledezma <ledezma.wilberk@gmail.com>",
   "license": "ISC",
